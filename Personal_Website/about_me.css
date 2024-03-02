@@ -1,0 +1,21 @@
+html {
+    font-size: 20px;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
+
+body {
+    background-color: #020202;
+    color:rgb(12, 117, 12);
+}
+
+.h2 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
